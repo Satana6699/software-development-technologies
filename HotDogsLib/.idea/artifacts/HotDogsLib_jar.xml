@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="HotDogsLib:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/HotDogsLib_jar</output-path>
+    <root id="archive" name="HotDogsLib.jar">
+      <element id="module-output" name="HotDogsLib" />
+    </root>
+  </artifact>
+</component>

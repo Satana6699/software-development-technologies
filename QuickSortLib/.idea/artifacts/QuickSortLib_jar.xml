@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="QuickSortLib:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/QuickSortLib_jar</output-path>
+    <root id="archive" name="QuickSortLib.jar">
+      <element id="module-output" name="QuickSortLib" />
+    </root>
+  </artifact>
+</component>

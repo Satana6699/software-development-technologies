@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="QuickSortLib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/QuickSortLib/out/artifacts/QuickSortLib_jar/QuickSortLib.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

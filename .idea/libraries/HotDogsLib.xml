@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="HotDogsLib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/HotDogsLib/out/artifacts/HotDogsLib_jar/HotDogsLib.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

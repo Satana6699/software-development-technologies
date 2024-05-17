@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< lr5
+      <module fileurl="file://$PROJECT_DIR$/.idea/HotDogStore.iml" filepath="$PROJECT_DIR$/.idea/HotDogStore.iml" />
+=======
       <module fileurl="file://$PROJECT_DIR$/HotDogStore.iml" filepath="$PROJECT_DIR$/HotDogStore.iml" />
+>>>>>>> master
     </modules>
   </component>
 </project>

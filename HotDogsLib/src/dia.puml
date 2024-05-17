@@ -1,0 +1,33 @@
+@startuml
+'https://plantuml.com/class-diagram
+
+abstract class HotDog
+class HunterDog
+class MasterDog
+class Berlinka
+
+Berlinka <|-- HotDog
+MasterDog <|-- HotDog
+HunterDog <|-- HotDog
+class HotDog{
+    String _name;
+    int _cost;
+    static int _orderTotalSum;
+    protected static int _totalOrderAmount;
+    public abstract int Buy(int money);
+    public int GetOrderTotalSum()
+    public int GetTotalOrderAmount()
+}
+
+class HunterDog{
+    public int Buy(int money)
+}
+
+class MasterDog{
+    public int Buy(int money)
+}
+
+class Berlinka{
+    public int Buy(int money)
+}
+@enduml
